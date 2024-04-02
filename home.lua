@@ -1,4 +1,4 @@
---[[pod_format="raw",created="2024-03-23 22:06:57",modified="2024-04-02 11:26:44",revision=921]]
+--[[pod_format="raw",created="2024-03-23 22:06:57",modified="2024-04-02 11:39:50",revision=922]]
 p = {
 	title = "Feyn's home",
 	g = create_gui({x=0,y=0,
@@ -67,7 +67,7 @@ for the way to this wonderful world :(
 
 Also, being in this community
 is a good practice for my not so good english,
-so there are may be some mistakes and mess :D
+so there may be some mistakes and mess :D
 
 
 My favourite games
